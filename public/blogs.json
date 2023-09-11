@@ -1,0 +1,43 @@
+[
+    {
+      "id": "B12345",
+      "cover": "book_cover1.jpg",
+      "title": "Secrets of the Enchanted Forest",
+      "author": "Emily Smith",
+      "author_img": "author_image1.jpg",
+      "posted_date": "September 15, 2023",
+      "reading_time": 120, 
+      "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+      "id": "A98765",
+      "cover": "book_cover2.jpg",
+      "title": "The Galactic Explorer's Handbook",
+      "author": "David Johnson",
+      "author_img": "author_image2.jpg",
+      "posted_date": "August 28, 2023",
+      "reading_time": 210, 
+      "hashtags": ["#ScienceFiction", "#Space"]
+    },
+    {
+      "id": "C54321",
+      "cover": "book_cover3.jpg",
+      "title": "Mystery at Moonlight Manor",
+      "author": "Sarah Davis",
+      "author_img": "author_image3.jpg",
+      "posted_date": "October 5, 2023",
+      "reading_time": 150, 
+      "hashtags": ["#Mystery", "#Detective"]
+    },
+    {
+      "id": "D24680",
+      "cover": "book_cover4.jpg",
+      "title": "Cooking with Flavors of the World",
+      "author": "Michael Brown",
+      "author_img": "author_image4.jpg",
+      "posted_date": "July 12, 2023",
+      "reading_time": 90, 
+      "hashtags": ["#Cookbook", "#Culinary"]
+    }
+  ]
+  

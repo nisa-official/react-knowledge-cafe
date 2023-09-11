@@ -1,6 +1,8 @@
 import { useState } from 'react'
 
 import './App.css'
+import Header from './components/Header/Header'
+import Blogs from './components/Blogs/Blogs'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,7 +10,8 @@ function App() {
   return (
     <>
       
-      <h1 className='text-6xl bg-red-300'>knowledge Cafe</h1>
+     <Header></Header>
+     <Blogs></Blogs>
       
      
     </>
